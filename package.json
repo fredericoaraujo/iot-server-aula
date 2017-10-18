@@ -1,0 +1,16 @@
+{
+  "name": "IESB-IOT",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "repository": "https://github.com/angular/angular-seed",
+  "license": "",
+  "dependencies": {
+    "hapi": "^16.6.0",
+    "inert": "^4.2.1",
+    "joi": "^11.0.1",
+    "lout": "^10.0.2",
+    "serialport": "^5.0.0",
+    "vision": "^4.1.1"
+  }
+}
